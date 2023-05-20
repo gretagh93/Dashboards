@@ -1,0 +1,462 @@
+EVENT_DATE,EVENT_TYPE,SUB_EVENT_TYPE,ACTOR1,ACTOR2,LOCATION,LATITUDE,LONGITUDE,SOURCE_SCALE,FATALITIES
+03-May-2018,Battles,Armed clash,TCP: Pure Third Command,CV: Red Command,Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+05-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,Subnational,1
+14-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Campos dos Goytacazes,-21.763,-41.319,New media,0
+14-March-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Estancia,-11.268,-37.438,Subnational-National,1
+03-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Ceara-Mirim,-5.639,-35.424,Subnational-National,0
+14-November-2018,Riots,Violent demonstration,Rioters (Brazil),Military Forces of Brazil (2016-2018) Military Police,Petropolis,-22.512,-43.177,National,0
+31-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Jardinopolis,-21.026,-47.771,National,1
+30-June-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Goiania,-16.679,-49.254,Subnational,1
+19-October-2018,Battles,Armed clash,Unidentified Gang (Brazil),Police Forces of Brazil (2016-2018),Santa Cruz do Capibaribe,-7.948,-36.206,National,2
+31-July-2018,Strategic developments,Looting/property destruction,Unidentified Armed Group (Brazil),Civilians (Brazil),Londrina,-23.31,-51.163,National,0
+01-February-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Aparecida de Goiania,-16.82,-49.247,Subnational,1
+06-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Feira de Santana,-12.267,-38.967,Subnational,1
+20-July-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Maceio,-9.666,-35.735,Subnational,1
+18-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,New media,0
+18-March-2018,Battles,Armed clash,CV: Red Command,FDN: Family of the North,Presidente Figueiredo,-2.049,-60.025,National,3
+15-July-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Manaus,-3.102,-60.025,National,1
+14-February-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Aracaju,-10.911,-37.072,Subnational-National,3
+23-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Manaus,-3.102,-60.025,Subnational,4
+21-September-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,PCC: First Capital Command,Boa Vista,2.82,-60.673,National,4
+15-August-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Natal,-5.795,-35.209,Subnational,1
+31-August-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Boa Vista,2.82,-60.673,Subnational,0
+09-April-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Aracatuba,-21.209,-50.433,National,1
+23-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+19-April-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Niteroi,-22.883,-43.104,New media,0
+25-July-2018,Battles,Armed clash,CV: Red Command,TCP: Pure Third Command,Niteroi,-22.883,-43.104,Subnational,0
+31-May-2018,Strategic developments,Looting/property destruction,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Dourados,-22.221,-54.806,Subnational-International,0
+24-March-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Belem,-1.444,-48.473,National,1
+02-May-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - South Zone,-22.966,-43.199,International,0
+24-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Camaragibe,-8.022,-34.981,Subnational,2
+02-March-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - South Zone,-22.966,-43.199,New media,0
+18-April-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Rio de Janeiro - West Zone,-22.915,-43.488,National,0
+07-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Paranatinga,-14.424,-54.058,Local partner-Other,1
+20-May-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio Branco,-9.975,-67.81,National,1
+02-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Osasco,-23.532,-46.792,New media,0
+18-February-2018,Violence against civilians,Attack,Military Forces of Brazil (2016-2018) Military Police,Civilians (Brazil),Salvador,-12.971,-38.511,Subnational-National,1
+17-July-2018,Violence against civilians,Attack,Military Forces of Brazil (2016-2018) Military Police,Civilians (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,National,1
+24-October-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Rio de Janeiro - South Zone,-22.966,-43.199,National,0
+02-October-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Recife,-8.054,-34.881,National,2
+18-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Feira de Santana,-12.267,-38.967,Subnational,1
+24-July-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Colombo,-25.292,-49.224,National,1
+11-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio Branco,-9.975,-67.81,Subnational,0
+27-August-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Ribeirao das Neves,-19.767,-44.087,National,1
+24-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Sao Paulo - East Zone,-23.549,-46.537,New media,0
+12-February-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+21-January-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Ribeira do Pombal,-10.838,-38.538,National,3
+03-November-2018,Strategic developments,Looting/property destruction,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Oroco,-8.614,-39.603,National,0
+19-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Macapa,0.039,-51.066,National,1
+17-May-2018,Battles,Armed clash,Unidentified Gang (Brazil),Police Forces of Brazil (2016-2018),Conde,-11.813,-37.614,National,2
+30-July-2018,Battles,Armed clash,CV: Red Command,Unidentified Gang and/or Police Militia,Rio de Janeiro - West Zone,-22.915,-43.488,New media-National,0
+05-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Belem,-1.444,-48.473,National,1
+27-March-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Areado,-21.358,-46.147,National,2
+11-April-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018),Ipiacu,-18.692,-49.943,Subnational,0
+14-August-2018,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Brazil),Civilians (Brazil),Vila Nova do Sul,-30.343,-53.883,Subnational,0
+13-June-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Aparecida de Goiania,-16.82,-49.247,Subnational,2
+17-March-2018,Strategic developments,Looting/property destruction,Unidentified Gang and/or Police Militia,Civilians (Brazil),Romaria,-18.882,-47.585,National,0
+16-November-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+21-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - South Zone,-22.966,-43.199,New media,0
+18-September-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Guaira,-24.08,-54.256,National,0
+07-July-2018,Riots,Violent demonstration,Rioters (Brazil),Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - West Zone,-22.915,-43.488,National,0
+16-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,CV: Red Command,Rio de Janeiro - North Zone,-22.857,-43.301,National,0
+21-April-2018,Violence against civilians,Attack,FDN: Family of the North,Civilians (Brazil),Autazes,-3.582,-59.128,Subnational,1
+24-November-2018,Strategic developments,Looting/property destruction,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Petrolina,-9.389,-40.503,National,0
+21-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+07-July-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Niteroi,-22.883,-43.104,Subnational,1
+16-February-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Porto Alegre,-30.033,-51.23,National,1
+23-March-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Macapa,0.039,-51.066,Subnational,0
+30-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Mossoro,-5.184,-37.35,National,1
+13-March-2018,Battles,Armed clash,CV: Red Command,PCC: First Capital Command,Cuiaba,-15.596,-56.097,National,1
+15-August-2018,Violence against civilians,Attack,Military Forces of Brazil (2016-2018) Military Police,Civilians (Brazil),Goiania,-16.679,-49.254,National-International,1
+09-June-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Macae,-22.385,-41.783,National,1
+30-June-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Mata de Sao Joao,-12.527,-38.305,National,1
+16-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rondonopolis,-16.471,-54.636,National,1
+22-July-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang and/or Police Militia,Angra dos Reis,-23.007,-44.318,National,4
+23-August-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Santana,-0.037,-51.173,National,0
+27-October-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Aruja,-23.396,-46.321,New media,0
+31-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Mangaratiba,-22.943,-44.041,National,1
+02-December-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Sao Goncalo,-22.827,-43.054,Subnational,2
+22-October-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Salvador,-12.971,-38.511,National,1
+25-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018),Unidentified Gang and/or Police Militia,Rio de Janeiro,-22.911,-43.209,National,0
+28-March-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+17-November-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Duque de Caxias,-22.786,-43.312,New media,0
+05-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Diadema,-23.686,-46.623,National,1
+03-October-2018,Riots,Violent demonstration,Rioters (Brazil),Rioters (Brazil),Rio de Janeiro - South Zone,-22.966,-43.199,National,0
+25-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Boa Vista,2.82,-60.673,National,1
+26-August-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Taubate,-23.026,-45.555,National,1
+17-February-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Cruzeiro do Sul,-7.626,-72.678,National,1
+31-July-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Nilo Pecanha,-13.601,-39.104,National,1
+03-January-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - North Zone,-22.857,-43.301,National,0
+11-October-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Macapa,0.039,-51.066,National,0
+04-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Fortaleza,-3.717,-38.543,Subnational,1
+05-June-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Ponta Pora,-22.536,-55.726,Subnational,1
+21-September-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Recife,-8.054,-34.881,National,0
+19-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Belem,-1.444,-48.473,National,1
+25-December-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Poa,-23.528,-46.345,New media,0
+02-June-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) UPP: Pacifying Police Unit,Rio de Janeiro - West Zone,-22.915,-43.488,National,2
+25-February-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang and/or Police Militia,Florianopolis,-27.597,-48.549,Subnational,0
+14-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+24-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Feira de Santana,-12.267,-38.967,Subnational,1
+24-January-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Serra,-20.129,-40.308,Subnational,1
+17-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Uberlandia,-18.919,-48.277,National,2
+19-December-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Rio de Janeiro - North Zone,-22.857,-43.301,Subnational,0
+06-August-2018,Strategic developments,Looting/property destruction,Unidentified Gang and/or Police Militia,Civilians (Brazil),Florianopolis,-27.597,-48.549,National,0
+24-April-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Angra dos Reis,-23.007,-44.318,New media,0
+09-April-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,New media,0
+26-January-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018),Unidentified Gang and/or Police Militia,Rio de Janeiro - South Zone,-22.966,-43.199,New media,0
+28-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Ibateguara,-8.974,-35.928,Subnational,1
+07-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Belem,-1.444,-48.473,National,1
+01-April-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Colinas do Tocantins,-8.059,-48.475,National,1
+24-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Macapa,0.039,-51.066,Subnational,1
+03-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio Branco,-9.975,-67.81,Subnational,1
+16-October-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Manaus,-3.102,-60.025,National,1
+23-December-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Boa Vista,2.82,-60.673,Subnational,1
+30-May-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Goiania,-16.679,-49.254,Subnational,1
+26-September-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,New media,0
+11-August-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+17-March-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Feira de Santana,-12.267,-38.967,Subnational,1
+08-March-2018,Battles,Armed clash,Unidentified Communal Militia (Brazil),Unidentified Communal Militia (Brazil),Capitao Eneas,-16.325,-43.715,National,0
+14-December-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Nova Canaa,-14.794,-40.142,National,0
+11-November-2018,Battles,Armed clash,PCC: First Capital Command,Military Forces of Brazil (2016-2018) Military Police,Goiatins,-7.713,-47.315,Subnational,1
+19-March-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Police Forces of Brazil (2016-2018) Prison Guards,Recife,-8.054,-34.881,National,1
+16-June-2018,Violence against civilians,Attack,Police Militia,Civilians (Brazil),Maceio,-9.666,-35.735,Subnational,1
+04-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Sao Paulo - East Zone,-23.549,-46.537,New media,0
+31-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Itu,-23.265,-47.3,National,1
+01-May-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,New media,0
+22-March-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+22-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Maceio,-9.666,-35.735,Subnational,1
+16-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Sao Pedro da Aldeia,-22.839,-42.103,New media,0
+01-November-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Nova Friburgo,-22.282,-42.531,National,0
+14-May-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Tangara da Serra,-14.612,-57.49,National,1
+02-July-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Joao Pessoa,-7.115,-34.863,Subnational,0
+11-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Macapa,0.039,-51.066,Subnational-National,1
+20-March-2018,Violence against civilians,Attack,PCC: First Capital Command,Civilians (Brazil),Presidente Prudente,-22.126,-51.389,National,0
+02-August-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018),Unidentified Gang and/or Police Militia,Sao Goncalo,-22.827,-43.054,New media,0
+10-October-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang and/or Police Militia,Nova Friburgo,-22.282,-42.531,National,1
+02-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Lagarto,-10.918,-37.669,National,1
+26-February-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Itaguai,-22.852,-43.775,Subnational,0
+04-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Fortaleza,-3.717,-38.543,National,2
+04-July-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Satuba,-9.571,-35.825,Subnational,0
+09-April-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Assu,-5.584,-36.914,Subnational-National,1
+05-May-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - South Zone,-22.966,-43.199,National,0
+19-December-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Simao Dias,-10.74,-37.809,National,1
+12-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Garanhuns,-8.892,-36.488,National,1
+23-November-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Ararangua,-28.935,-49.487,Subnational,2
+01-May-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Mari,-7.058,-35.318,National,0
+19-March-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,CV: Red Command,Sao Goncalo,-22.827,-43.054,Subnational,0
+09-February-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Miguelopolis,-20.18,-48.03,National,0
+20-December-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Volta Redonda,-22.523,-44.104,Subnational,0
+28-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Angra dos Reis,-23.007,-44.318,New media,0
+01-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Buriticupu,-4.315,-46.46,National,0
+23-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Santa Rita,-7.114,-34.978,Subnational,1
+28-January-2018,Battles,Armed clash,PCC: First Capital Command,Military Forces of Brazil (2016-2018) Military Police,Dourados,-22.221,-54.806,Subnational-National,2
+19-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Recife,-8.054,-34.881,Other,0
+12-May-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Coruripe,-10.125,-36.176,National,4
+29-January-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Teotonio Vilela,-9.906,-36.358,Subnational,0
+18-September-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Embu das Artes,-23.649,-46.852,New media,0
+26-February-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,PCC: First Capital Command,Sao Goncalo do Amarante,-5.793,-35.329,Subnational-National,1
+25-August-2018,Strategic developments,Looting/property destruction,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Mirante do Paranapanema,-22.296,-51.908,National,0
+29-August-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Santa Barbara d'Oeste,-22.753,-47.415,National,1
+16-January-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Gravatai,-29.942,-50.993,National,2
+30-August-2018,Strategic developments,Looting/property destruction,Unidentified Armed Group (Brazil),Civilians (Brazil),Ribeirao Preto,-21.177,-47.81,National,0
+08-October-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Serra,-20.129,-40.308,National,0
+16-October-2018,Strategic developments,Arrests,Police Forces of Brazil (2016-2018) Civil Police,Unidentified Gang and/or Police Militia,Campos dos Goytacazes,-21.763,-41.319,National,0
+15-October-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+19-August-2018,Battles,Armed clash,PCC: First Capital Command,RN: Crime Union of RN,Nisia Floresta,-6.094,-35.2,National,4
+07-May-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,New media,0
+28-May-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+29-December-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Serra do Salitre,-19.11,-46.688,National,1
+19-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Boa Vista,2.82,-60.673,Subnational,0
+22-March-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Araucaria,-25.589,-49.4,National,1
+16-March-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Rio Branco,-9.975,-67.81,National,1
+27-January-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Volta Redonda,-22.523,-44.104,National,1
+10-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Caxias do Sul,-29.168,-51.179,Subnational,3
+19-January-2018,Violence against civilians,Attack,Brazil Skinheads,Civilians (Brazil),Fortaleza,-3.717,-38.543,National,0
+17-February-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Campo Grande,-20.443,-54.646,Subnational-National,0
+17-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Resende,-22.471,-44.451,National,0
+26-January-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Sertaozinho,-21.139,-47.99,National,0
+22-March-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Itatira,-4.53,-39.621,National,0
+11-August-2018,Violence against civilians,Attack,Military Forces of Brazil (2016-2018) Military Police,Civilians (Brazil),Goiania,-16.679,-49.254,National,0
+03-October-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+18-July-2018,Battles,Armed clash,Unidentified Gang (Brazil),Police Forces of Brazil (2016-2018),Lagoa dos Gatos,-8.654,-35.904,National,0
+06-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Sao Jose dos Campos,-23.179,-45.887,New media,0
+19-April-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,FDN: Family of the North,Manaus,-3.102,-60.025,Subnational,0
+19-May-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Police Forces of Brazil (2016-2018),Varzea Grande,-15.647,-56.132,National,1
+01-January-2018,Violence against civilians,Attack,CV: Red Command,Civilians (Brazil),Belford Roxo,-22.764,-43.399,National-International,1
+16-April-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Sao Vicente,-23.963,-46.392,National,0
+17-May-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Ipatinga,-19.466,-42.548,National,1
+04-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Campos dos Goytacazes,-21.763,-41.319,National,0
+15-December-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018) Civil Police,Unidentified Gang and/or Police Militia,Dourados,-22.221,-54.806,Subnational,1
+02-April-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018) Federal Police,Unidentified Gang and/or Police Militia,Angra dos Reis,-23.007,-44.318,New media,0
+05-June-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Salvador,-12.971,-38.511,National,1
+25-April-2018,Strategic developments,Looting/property destruction,Police Forces of Brazil (2016-2018) Civil Police,Unidentified Gang (Brazil),Aruja,-23.396,-46.321,National,0
+23-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Olinda,-7.993,-34.866,National,1
+19-December-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Santiago,-29.189,-54.867,International,2
+22-June-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Penedo,-10.29,-36.586,Subnational,1
+03-October-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+11-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Governador Valadares,-18.856,-41.955,National,1
+06-May-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Cuiaba,-15.596,-56.097,National,1
+15-November-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,New media,0
+02-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Carapicuiba,-23.523,-46.835,New media,0
+23-April-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Rio Branco,-9.975,-67.81,Subnational,1
+08-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Araras,-22.357,-47.384,National,0
+14-March-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Teresina,-5.089,-42.802,National,1
+22-November-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+11-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Aracaju,-10.911,-37.072,National,1
+29-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Belford Roxo,-22.764,-43.399,New media,0
+03-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Rio de Janeiro - North Zone,-22.857,-43.301,National,2
+24-September-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Sao Paulo - East Zone,-23.549,-46.537,New media,0
+16-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio Branco,-9.975,-67.81,Subnational,0
+27-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+29-June-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Belem,-1.444,-48.473,National,1
+01-October-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Marica,-22.917,-42.818,Subnational,3
+23-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Aracaju,-10.911,-37.072,Subnational,1
+06-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Aparecida de Goiania,-16.82,-49.247,National,1
+19-April-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Sao Goncalo,-22.827,-43.054,Subnational,0
+18-October-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Manaus,-3.102,-60.025,National,1
+29-July-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang and/or Police Militia,Sao Goncalo,-22.827,-43.054,Subnational,1
+15-November-2018,Violence against civilians,Attack,Military Forces of Brazil (2016-2018) Military Police,Civilians (Brazil),Sao Paulo - North Zone,-23.474,-46.673,National,0
+21-June-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Uberaba,-19.747,-47.937,National,1
+08-December-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Rio de Janeiro - West Zone,-22.915,-43.488,Subnational,1
+28-February-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - South Zone,-22.966,-43.199,Subnational-National,1
+22-July-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Juiz de Fora,-21.763,-43.35,National,2
+27-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+13-April-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Macapa,0.039,-51.066,Subnational,1
+16-June-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Vicosa,-9.373,-36.243,Subnational,1
+01-August-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018),Unidentified Gang and/or Police Militia,Sao Paulo - South Zone,-23.661,-46.701,New media,0
+24-March-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Aracaju,-10.911,-37.072,Subnational,0
+08-December-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Nova Friburgo,-22.282,-42.531,National,1
+17-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Campos dos Goytacazes,-21.763,-41.319,National,0
+24-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+28-April-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Angra dos Reis,-23.007,-44.318,New media,0
+13-April-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Sao Goncalo,-22.827,-43.054,Subnational,1
+29-December-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+06-December-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Guarulhos,-23.463,-46.533,New media,0
+25-July-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Sao Goncalo,-22.827,-43.054,Subnational,1
+02-January-2018,Strategic developments,Disrupted weapons use,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Campo Grande,-20.443,-54.646,Subnational,0
+09-June-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Maceio,-9.666,-35.735,Subnational,1
+10-June-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio Branco,-9.975,-67.81,Subnational,2
+20-February-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Goiania,-16.679,-49.254,Subnational,0
+13-March-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Divinopolis,-20.142,-44.889,National,1
+05-May-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Macapa,0.039,-51.066,Subnational,1
+30-September-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio das Flores,-22.169,-43.584,National,1
+10-December-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Sao Goncalo,-22.827,-43.054,New media,0
+27-June-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Vitoria da Conquista,-14.862,-40.844,National,3
+31-July-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Campo Formoso,-10.511,-40.32,National,1
+11-July-2018,Protests,Protest with intervention,Protesters (Brazil),Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - West Zone,-22.915,-43.488,National,0
+30-March-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Canarana,-13.556,-52.269,National,1
+12-April-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Joao Pessoa,-7.115,-34.863,Subnational,1
+04-August-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Para de Minas,-19.86,-44.608,National,1
+04-December-2018,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Brazil),Civilians (Brazil),Comodoro,-13.641,-59.782,Subnational,0
+10-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,CV: Red Command,Araguaina,-7.191,-48.207,Subnational,1
+30-January-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Jatai,-17.879,-51.722,Subnational-National,1
+02-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Duque de Caxias,-22.786,-43.312,New media,0
+08-September-2018,Violence against civilians,Attack,Police Forces of Brazil (2016-2018),Civilians (Brazil),Canto do Buriti,-8.11,-42.944,National,1
+23-November-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Sao Lourenco da Mata,-7.996,-35.039,National,1
+23-August-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018),Unidentified Gang and/or Police Militia,Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+03-July-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Balneario Arroio do Silva,-28.987,-49.414,Subnational,1
+23-June-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Viamao,-30.081,-51.023,Subnational,0
+26-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+18-February-2018,Riots,Mob violence,Rioters (Brazil),Civilians (Brazil),Craibas,-9.617,-36.767,Subnational,0
+29-July-2018,Strategic developments,Looting/property destruction,CV: Red Command,Civilians (Brazil),Fortaleza,-3.717,-38.543,National,0
+04-June-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,PCC: First Capital Command,Campo Grande,-20.443,-54.646,Subnational,1
+26-June-2018,Strategic developments,Looting/property destruction,PCC: First Capital Command,Civilians (Brazil),Eloi Mendes,-21.609,-45.566,National,0
+02-May-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Duque de Caxias,-22.786,-43.312,New media,0
+21-February-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Paulista,-7.941,-34.873,National,1
+31-January-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Recife,-8.054,-34.881,National,1
+09-May-2018,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Brazil),Civilians (Brazil),Franca,-20.54,-47.401,National,0
+29-November-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Sao Bento do Sul,-26.248,-49.382,Subnational,2
+10-April-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Salvador,-12.971,-38.511,National,0
+01-July-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Feira de Santana,-12.267,-38.967,Subnational,0
+18-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Duque de Caxias,-22.786,-43.312,New media,0
+25-February-2018,Strategic developments,Looting/property destruction,Police Forces of Brazil (2016-2018) Federal Police,Unidentified Gang (Brazil),Ourinhos,-22.977,-49.87,National,0
+18-November-2018,Violence against civilians,Sexual violence,Unidentified Armed Group (Brazil),Civilians (Brazil),Valenca,-22.246,-43.707,National,1
+03-November-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Arcoverde,-8.417,-37.065,National,1
+13-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Itapora,-22.079,-54.789,Subnational,1
+18-May-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Joao Pessoa,-7.115,-34.863,Subnational,1
+25-March-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Uberlandia,-18.919,-48.277,National,1
+04-July-2018,Strategic developments,Looting/property destruction,Police Forces of Brazil (2016-2018) Civil Police,Unidentified Gang (Brazil),Campina Grande,-7.231,-35.881,Subnational,0
+12-December-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Brasilia,-15.78,-47.93,National,2
+16-February-2018,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Brazil),Civilians (Brazil),Pio IX,-6.835,-40.615,Subnational-National,0
+24-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Santa Rita,-7.114,-34.978,Subnational,1
+18-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Angra dos Reis,-23.007,-44.318,National,2
+02-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Aracaju,-10.911,-37.072,National,1
+11-May-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Goiania,-16.679,-49.254,Subnational,1
+13-July-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Itamaraju,-17.04,-39.529,National,1
+31-December-2018,Battles,Armed clash,PCC: First Capital Command,Unidentified Gang (Brazil),Campo Grande,-20.443,-54.646,National,0
+28-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Dourados,-22.221,-54.806,Subnational,1
+13-January-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Sao Luiz,1.014,-60.036,National,1
+12-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+19-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio Branco,-9.975,-67.81,Subnational,1
+29-October-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Esmeraldas,-19.761,-44.314,National,1
+27-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Sao Goncalo,-22.827,-43.054,Subnational,5
+08-February-2018,Battles,Armed clash,Unidentified Gang (Brazil),Police Forces of Brazil (2016-2018) Civil Police,Cruzeiro,-22.573,-44.971,National,0
+17-June-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+30-November-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Sao Bento do Sul,-26.248,-49.382,National,1
+06-May-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Jucati,-8.706,-36.489,National,1
+22-November-2018,Riots,Mob violence,Rioters (Brazil),Civilians (Brazil),Porto Velho,-8.762,-63.904,Subnational,0
+18-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Itaborai,-22.744,-42.859,Subnational,1
+05-June-2018,Strategic developments,Looting/property destruction,PCC: First Capital Command,Civilians (Brazil),Araxa,-19.593,-46.941,National,0
+14-December-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Manaus,-3.102,-60.025,National,1
+21-September-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018),Unidentified Gang and/or Police Militia,Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+20-November-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Manaus,-3.102,-60.025,National,0
+04-February-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Belford Roxo,-22.764,-43.399,National,0
+03-January-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,New media,0
+11-June-2018,Strategic developments,Looting/property destruction,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Itapora,-22.079,-54.789,National,0
+05-April-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Santana,-0.037,-51.173,Subnational,1
+28-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Sao Joao da Barra,-21.64,-41.045,National,1
+17-July-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Ipatinga,-19.466,-42.548,National,1
+10-April-2018,Riots,Mob violence,Rioters (Brazil),Civilians (Brazil),Sao Luis,-2.53,-44.303,National,1
+15-June-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - Central Zone,-22.906,-43.182,New media-National,1
+28-August-2018,Riots,Mob violence,Rioters (Brazil),Civilians (Brazil),Recife,-8.054,-34.881,National,0
+28-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Macapa,0.039,-51.066,Subnational,1
+05-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Recife,-8.054,-34.881,Other,1
+27-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Paudalho,-7.902,-35.172,National,1
+13-December-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018) Civil Police,Unidentified Gang and/or Police Militia,Angra dos Reis,-23.007,-44.318,Subnational,0
+27-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Bento Goncalves,-29.171,-51.519,Subnational,1
+29-January-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Olinda,-7.993,-34.866,National,2
+16-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+16-September-2018,Violence against civilians,Attack,PCC: First Capital Command,Civilians (Brazil),Guaruja,-23.993,-46.256,National,1
+11-May-2018,Strategic developments,Looting/property destruction,Police Forces of Brazil (2016-2018) Federal Police,Unidentified Gang (Brazil),Ponta Pora,-22.536,-55.726,Subnational,0
+27-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Japeri,-22.643,-43.653,New media,0
+27-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Parintins,-2.636,-56.72,Subnational,2
+23-May-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,New media,0
+22-September-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Araujos,-19.949,-45.163,National,1
+18-February-2018,Violence against civilians,Attack,Vala Gang,Civilians (Brazil),Serra,-20.129,-40.308,Subnational,1
+22-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Police Forces of Brazil (2016-2018) Civil Police,Rio de Janeiro - Central Zone,-22.906,-43.182,National,0
+02-December-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Manaus,-3.102,-60.025,National,1
+02-June-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Barra dos Coqueiros,-10.902,-37.035,National,0
+28-February-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Natal,-5.795,-35.209,Subnational,1
+10-August-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Porto Alegre,-30.033,-51.23,National,1
+30-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Teresina,-5.089,-42.802,National,1
+19-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+14-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Lagarto,-10.918,-37.669,National,2
+27-November-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Porto Alegre,-30.033,-51.23,National,2
+27-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Maceio,-9.666,-35.735,Subnational,1
+14-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Belford Roxo,-22.764,-43.399,New media,3
+22-September-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - West Zone,-22.915,-43.488,National,0
+08-April-2018,Violence against civilians,Attack,Military Forces of Brazil (2016-2018) Military Police,Civilians (Brazil),Barbacena,-21.225,-43.773,National,1
+15-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Caxias do Sul,-29.168,-51.179,National,1
+14-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Macapa,0.039,-51.066,Subnational,1
+29-March-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Cuiaba,-15.596,-56.097,National,0
+29-June-2018,Violence against civilians,Attack,Military Forces of Brazil (2016-2018) UPP: Pacifying Police Unit,Civilians (Venezuela),Boa Vista,2.82,-60.673,National,0
+24-July-2018,Riots,Violent demonstration,Rioters (Brazil),Rioters (Brazil),Laranjeiras,-10.806,-37.17,Subnational,0
+04-October-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+27-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Bela Vista de Goias,-16.969,-48.951,National,2
+24-October-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Jaguaquara,-13.53,-39.97,National,3
+18-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+20-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Santos,-23.961,-46.334,New media-National,0
+19-May-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Bataguassu,-21.72,-52.429,Subnational,0
+20-December-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Niteroi,-22.883,-43.104,Subnational,0
+29-May-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Goiania,-16.679,-49.254,Subnational,2
+28-October-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Araucaria,-25.589,-49.4,Subnational,1
+26-December-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Niteroi,-22.883,-43.104,New media,0
+12-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Cabo Frio,-22.887,-42.026,National,2
+16-November-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Porto Alegre,-30.033,-51.23,Subnational,2
+18-March-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Jijoca de Jericoacoara,-2.899,-40.451,National,1
+23-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,National,1
+06-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Petrolina,-9.389,-40.503,National,1
+27-July-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - West Zone,-22.915,-43.488,National,0
+16-September-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+14-January-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Manaus,-3.102,-60.025,National,1
+16-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Manaus,-3.102,-60.025,National,1
+17-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Queimados,-22.716,-43.555,National,0
+09-December-2018,Riots,Violent demonstration,Rioters (Brazil),Military Forces of Brazil (2016-2018) Military Police,Porto Alegre,-30.033,-51.23,Subnational,0
+24-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Maranguape,-3.891,-38.686,Subnational,1
+25-June-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Salvador,-12.971,-38.511,National,1
+18-February-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - North Zone,-22.857,-43.301,National,1
+23-June-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Santo Andre,-23.664,-46.538,National,1
+03-January-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Police Forces of Brazil (2016-2018),Campo Grande,-20.443,-54.646,Subnational,0
+29-September-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Goiania,-16.679,-49.254,Subnational,1
+06-November-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Natal,-5.795,-35.209,National,1
+08-August-2018,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Brazil),Civilians (Brazil),Ibiuna,-23.656,-47.223,National-International,0
+07-December-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Joinville,-26.304,-48.844,Subnational,1
+05-February-2018,Strategic developments,Looting/property destruction,Police Forces of Brazil (2016-2018) Federal Police,Unidentified Gang (Brazil),Sidrolandia,-20.932,-54.961,Subnational,0
+20-June-2018,Strategic developments,Looting/property destruction,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Figueirao,-18.678,-53.638,Subnational,0
+18-May-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Feira de Santana,-12.267,-38.967,Subnational,1
+20-June-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - North Zone,-22.857,-43.301,National,0
+28-October-2018,Riots,Mob violence,Rioters (Brazil),Rioters (Brazil),Boa Vista,2.82,-60.673,National,0
+25-January-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Miradouro,-20.89,-42.342,National,1
+29-August-2018,Battles,Armed clash,Police Forces of Brazil (2016-2018) Federal Police,Unidentified Gang and/or Police Militia,Sao Goncalo,-22.827,-43.054,Subnational-International,2
+14-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+15-December-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Sao Goncalo,-22.827,-43.054,New media,0
+18-October-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Araguaina,-7.191,-48.207,Subnational,1
+01-September-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Porto Velho,-8.762,-63.904,Subnational,1
+12-March-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Cabo Frio,-22.887,-42.026,National,0
+30-June-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Pontes e Lacerda,-15.231,-59.336,National,1
+05-March-2018,Riots,Mob violence,Rioters (Brazil),Civilians (Brazil),Paulista,-7.941,-34.873,Subnational,0
+04-February-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+13-January-2018,Battles,Armed clash,Unidentified Gang (Brazil),Unidentified Gang (Brazil),Sao Luiz,1.014,-60.036,Subnational,1
+21-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+05-October-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang and/or Police Militia,Rio de Janeiro - North Zone,-22.857,-43.301,National,1
+28-November-2018,Battles,Armed clash,TCP: Pure Third Command,Military Forces of Brazil (2016-2018) Military Police,Rio de Janeiro - North Zone,-22.857,-43.301,National,1
+25-March-2018,Battles,Armed clash,CV: Red Command,PCC: First Capital Command,Rio Largo,-9.478,-35.853,National,1
+16-February-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Salvador,-12.971,-38.511,National,3
+03-October-2018,Protests,Protest with intervention,Protesters (Brazil),Military Forces of Brazil (2016-2018) Military Police,Mocajuba,-2.583,-49.506,National,0
+16-February-2018,Strategic developments,Looting/property destruction,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Nova Andradina,-22.233,-53.343,Subnational,0
+25-July-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Natal,-5.795,-35.209,Subnational,1
+26-August-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,GDE: Guardians of the State,Fortaleza,-3.717,-38.543,Subnational,0
+21-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Teofilo Otoni,-17.866,-41.509,National,1
+06-October-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+08-February-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Cruzeiro do Sul,-7.626,-72.678,National,0
+16-February-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Manaus,-3.102,-60.025,Subnational,1
+13-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Maceio,-9.666,-35.735,Subnational,1
+10-May-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Porto Real,-22.417,-44.298,New media,0
+03-June-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Rio Branco,-9.975,-67.81,Subnational,0
+17-February-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - South Zone,-22.966,-43.199,New media,0
+05-May-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Santa Cruz do Capibaribe,-7.948,-36.206,National,1
+21-February-2018,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Brazil),Civilians (Brazil),Japoata,-10.347,-36.8,Subnational,0
+13-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Sao Goncalo,-22.827,-43.054,Subnational,1
+23-November-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+12-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Araguaina,-7.191,-48.207,Subnational,1
+08-July-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Feira de Santana,-12.267,-38.967,Subnational,1
+17-January-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Castanhal,-1.294,-47.926,National,1
+14-April-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Niteroi,-22.883,-43.104,New media,0
+20-August-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Santa Rita,-7.114,-34.978,Subnational,0
+21-April-2018,Violence against civilians,Sexual violence,Unidentified Gang and/or Police Militia,Civilians (Brazil),Tangara da Serra,-14.612,-57.49,National,1
+01-July-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Nova Friburgo,-22.282,-42.531,New media,0
+03-December-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Sao Carlos,-22.017,-47.891,New media,0
+28-March-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Bom Despacho,-19.741,-45.254,National,1
+17-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Natal,-5.795,-35.209,National,1
+19-February-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Barro Preto,-14.806,-39.474,National,2
+10-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Belford Roxo,-22.764,-43.399,New media,0
+05-May-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Feira de Santana,-12.267,-38.967,Subnational,1
+03-August-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Teresina,-5.089,-42.802,National,1
+25-March-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Marica,-22.917,-42.818,Subnational,5
+09-November-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Feira de Santana,-12.267,-38.967,Subnational,1
+25-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Juiz de Fora,-21.763,-43.35,National,0
+22-April-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Floriano,-6.773,-43.012,National,1
+29-December-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Niteroi,-22.883,-43.104,New media,0
+26-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+09-January-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018),Mariana Pimentel,-30.352,-51.584,Subnational,0
+10-February-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Itaperuna,-21.204,-41.889,National,1
+03-September-2018,Battles,Armed clash,Unidentified Gang (Brazil),Military Forces of Brazil (2016-2018) Military Police,Camacari,-12.698,-38.324,National,1
+09-January-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018),Florianopolis,-27.597,-48.549,National,0
+23-July-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Jaboatao dos Guararapes,-8.171,-34.921,Other-National,1
+03-September-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Sao Goncalo,-22.827,-43.054,National,1
+11-December-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Porto Nacional,-10.706,-48.41,Subnational,1
+22-October-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Manaus,-3.102,-60.025,National,1
+02-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - Central Zone,-22.906,-43.182,New media,0
+14-August-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Porto Velho,-8.762,-63.904,National,0
+06-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Rio Verde,-17.798,-50.933,Subnational-National,1
+30-May-2018,Battles,Armed clash,PCC: First Capital Command,CV: Red Command,Campo Grande,-20.443,-54.646,Subnational,1
+23-November-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang (Brazil),Macapa,0.039,-51.066,National,0
+03-August-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang and/or Police Militia,Sao Goncalo,-22.827,-43.054,Subnational,1
+08-June-2018,Strategic developments,Looting/property destruction,PCC: First Capital Command,Civilians (Brazil),Itanhandu,-22.296,-44.937,National,0
+19-October-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Military Forces of Brazil (2016-2018) Military Police,Belem,-1.444,-48.473,National,1
+08-May-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Angra dos Reis,-23.007,-44.318,New media,0
+25-August-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Duque de Caxias,-22.786,-43.312,New media,0
+23-December-2018,Battles,Armed clash,ADA: Amigos dos Amigos,CV: Red Command,Niteroi,-22.883,-43.104,Subnational,0
+02-August-2018,Strategic developments,Looting/property destruction,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang (Brazil),Goianinha,-6.265,-35.212,National,0
+24-March-2018,Battles,Armed clash,Unidentified Gang and/or Police Militia,Unidentified Gang and/or Police Militia,Miracema,-21.412,-42.196,National,0
+18-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Pio IX,-6.835,-40.615,National,1
+13-June-2018,Violence against civilians,Attack,Unidentified Gang (Brazil),Civilians (Brazil),Sao Jose dos Campos,-23.179,-45.887,National,1
+11-July-2018,Battles,Armed clash,Military Forces of Brazil (2016-2018) Military Police,Unidentified Gang and/or Police Militia,Petropolis,-22.512,-43.177,National,1
+15-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Rio de Janeiro - North Zone,-22.857,-43.301,New media,0
+26-January-2018,Battles,Armed clash,Unidentified Gang (Brazil),Private Security Forces (Brazil),Teotonio Vilela,-9.906,-36.358,Subnational-National,0
+25-March-2018,Strategic developments,Looting/property destruction,CV: Red Command,Civilians (Brazil),Fortaleza,-3.717,-38.543,Subnational,0
+27-June-2018,Battles,Armed clash,Unidentified Armed Group (Brazil),Unidentified Armed Group (Brazil),Angra dos Reis,-23.007,-44.318,New media,0
+10-January-2018,Violence against civilians,Attack,Unidentified Armed Group (Brazil),Civilians (Brazil),Salvador,-12.971,-38.511,National,2
+31-August-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Fortaleza,-3.717,-38.543,National,1
+27-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Santa Rita,-7.114,-34.978,Subnational,1
+05-January-2018,Violence against civilians,Attack,Unidentified Gang and/or Police Militia,Civilians (Brazil),Sao Goncalo,-22.827,-43.054,National,1
