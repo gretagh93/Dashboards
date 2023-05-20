@@ -12,7 +12,8 @@ def server(input, output, session):
     @output
     @render.table
     def summary():
-        df = pd.read_csv("BrazilConflicts2018.csv")
-        return df
+        df = pd.read_csv("Python-Shiny/data/BrazilConflicts2018.csv")
+        df_table = df.head()
+        return df_table
 
 app = App(app_ui, server)
