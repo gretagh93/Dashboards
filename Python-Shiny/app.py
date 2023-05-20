@@ -12,8 +12,7 @@ def server(input, output, session):
     @output
     @render.table
     def summary():
-        df = pd.read_csv("./ddbb/BrazilConflicts2018.csv")
+        df = pd.read_csv("BrazilConflicts2018.csv")
         return df
-
 
 app = App(app_ui, server)
