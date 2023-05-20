@@ -19,7 +19,7 @@ def server(input, output, session):
     @render.table
     def summary():
         df = pd.read_csv("Python-Shiny/data/BrazilConflicts2018.csv")
-        df = df.loc[df["FATALITIES"] > (input.fatalities())]
+        df = df.loc[df["FATALITIES"] >= (input.fatalities())]
         return df
 
 app = App(app_ui, server)
